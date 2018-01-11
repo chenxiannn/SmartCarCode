@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<flash_board>
+  <pass>
+    <loader>$TOOLKIT_DIR$\config\flashloader\Freescale\FlashK60Xxxx.flash</loader>
+    <range>CODE 0x00000000 0x0fffffff</range>
+  </pass>
+  <pass>
+    <loader>$TOOLKIT_DIR$\config\flashloader\Freescale\DFlashK60Xxxx.flash</loader>
+    <range>CODE 0x10000000 0x13ffffff</range>
+    <abs_offset>0x00800000</abs_offset>
+  </pass>
+</flash_board>
+
+

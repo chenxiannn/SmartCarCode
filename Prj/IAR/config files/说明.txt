@@ -1,0 +1,2 @@
+复制这些内容到安装目录下：
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\arm\config\flashloader\Freescale
