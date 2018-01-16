@@ -8,6 +8,3 @@
 嵌入式小书阅读地址：
 [觅知圈博客](https://blog.mizhiquan.com/)
 
-觅知圈公众号
-
-![](https://www.mizhiquan.com/static/images/qrcode.jpg)
